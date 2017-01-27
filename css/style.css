@@ -234,7 +234,7 @@ body.modal-open {
 .primary-button {
     min-width: 150px;
     padding: 0 20px;
-    background-color: #8BC34A;
+    background-color: #FF9900;
     border-radius: 2px;
     color: white;
     font-family: PTSans;
@@ -243,7 +243,7 @@ body.modal-open {
     font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
-    border: solid 2px #8BC34A;
+    border: solid 2px #FF9900;
     line-height: 36px;
     margin: 0 10px;
 
@@ -291,10 +291,10 @@ body.modal-open {
     background: #1080f2;
 }
 .primary-button:hover {
-    background: #6EA929;
+    background: #FFBD5B;
     color: #fff;
     text-decoration: none;
-    border: solid 2px #6EA929;
+    border: solid 2px #FFBD5B;
 }
 .secondary-button:hover {
     background: #fff;
@@ -306,6 +306,10 @@ body.modal-open {
 .logo img {
     height: 44px;
     width: auto;
+}
+
+.logo1 {
+  display: inline !important;
 }
 /*3.3 PRELOADER*/
 
@@ -681,6 +685,18 @@ header .container {
     top: 0;
     opacity: 0.1;
 }
+
+.beta {
+  color: #FFBD5B;
+  font-weight:bold;
+  font-size: 18px;
+}
+
+.logo2 {
+  display: 
+}
+
+
 /* --------------------------------------
 6. SECTIONS
 -----------------------------------------*/
